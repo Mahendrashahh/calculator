@@ -22,7 +22,7 @@ A simple command-line calculator written in Python. It allows you to perform bas
 1. **Clone the repository** (or download the file):
 
    ```bash
-   https://github.com/Mahendrashahh/calculator
+  [ https://github.com/Mahendrashahh/calculator](https://github.com/Mahendrashahh/calculator.git)
 
 **
    # calculator**
